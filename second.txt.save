@@ -1,0 +1,20 @@
+Hwy their how about you in their 
+<?php
+$dbname="";
+$bdpassword="";
+$dblocalhost="";
+$dbusername="";
+$conn=mysqli("dblocalhost","dbusername","dbpassword","dbname");
+
+if($conn->error()) dgdgdgdg dfgdg dg 
+{
+echo"Connection Failed!! ";
+}
+else{
+
+
+
+
+}
+
+
